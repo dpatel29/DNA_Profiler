@@ -7,7 +7,8 @@ This project was focused on DNA profiling. DNA profiling is the process where a 
 
 To run this program follow the steps:
 
-Compile the program by inputting this command:
+Dowload the program from git in a zip file and then extract it. After that, open the terminal and go to the location where you have saved this programm and open that directory! 
+Now, Compile the program by inputting this command:
 - make proj3
 
 Then to run it simply input the following code, if you wish you can change the case files to one of the given 5 case studies! 
